@@ -1,0 +1,32 @@
+# Visual Studio
+.vs/
+.vs.backup-*/
+*.user
+*.suo
+
+# .NET
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+TestResults/
+
+# Node / React / Vite
+node_modules/
+dist/
+build/
+.env
+.env.local
+
+# Logs
+*.log
+*.err.log
+*.out.log
+
+# Generated / temporary folders
+build-check/
+artifacts/
+
+# OS
+.DS_Store
+Thumbs.db
