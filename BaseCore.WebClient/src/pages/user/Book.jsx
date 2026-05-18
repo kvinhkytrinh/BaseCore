@@ -38,17 +38,15 @@ function Book() {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav  mx-auto ">
               <li className="nav-item">
-                <a className="nav-link" href="/">Home </a>
+                <a className="nav-link" href="/">Trang Chủ </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="/menu">Menu</a>
+                <a className="nav-link" href="/menu">Thực đơn</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="/about">About</a>
+                <a className="nav-link" href="/about">Về JolliVing</a>
               </li>
-              <li className="nav-item active">
-                <a className="nav-link" href="/book">Book Table <span className="sr-only">(current)</span> </a>
-              </li>
+              
             </ul>
             <div className="user_option">
               <a href="/login"
